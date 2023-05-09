@@ -42,8 +42,8 @@
 
 
 
-[Image1]: /img/1_SAP_register.png
-[Image2]: /img/2_SAP_Register.png
+[Image1]: /img/1_SAP_Register_1.png
+[Image2]: /img/2_SAP_Register_2.png
 [Image3]: /img/3_SAP%20BTP%20Trial%20Home%20page.png
 [Image4]: /img/4_Create%20Subaccount.png
 [Image5]: /img/5_Subaccount%20Created.png
